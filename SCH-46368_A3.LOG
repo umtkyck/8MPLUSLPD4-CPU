@@ -1,0 +1,711 @@
+Importer Log Report
+Project : SCH-46368_A3.PrjPcb
+
+Section : Import Document - C:\Users\Scisonic_2\Downloads\8MPLUSLPD4-CPU\8MPLUSLPD4-CPU\SCH-46368_A3.DSN
+
+    Section : Importing Sheet - Page04 CPU PWR.SchDoc
+        Warning : Power Port of type VCC_IN at (2300mil,13300mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (2300mil,9700mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (2300mil,12900mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (2300mil,11800mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (5700mil,12000mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (5700mil,9900mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (13400mil,13700mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (13400mil,6600mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (13400mil,8800mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (13400mil,10000mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (13400mil,11400mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (13400mil,11000mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (2300mil,5900mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (13400mil,11800mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (2300mil,13100mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (3200mil,3100mil) was replaced with Arrow style port
+        Warning : Junction at (18900mil,11800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,11400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,11100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,10700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,10600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,10400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,10000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,9800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,9600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,9500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,9200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,8600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,8500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,8000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,12000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,11900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,11600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,11400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,11200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,10700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,10400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,9800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,9500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,9000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,8600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,8500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,8300mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,10900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,10800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,10000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,9600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,9200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,9100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,8700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,7700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,11500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,10900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,11200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,11000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,9900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,9700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,11900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,8100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,8800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,8900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,9000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,11600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,10100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,8700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,12100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (3900mil,13100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (3400mil,12400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,8100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,7400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,7800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,7600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,7900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (3400mil,13300mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,9100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,10900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (3400mil,9200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2900mil,9200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4400mil,9700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (3400mil,9700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,9200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (3400mil,8800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (3400mil,8300mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2400mil,8800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2900mil,8300mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,8900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,8800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,10600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,10800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,11200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,11100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,11400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4400mil,12900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,7700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,7600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (18900mil,7400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,9500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4400mil,11800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (3400mil,11800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4900mil,11800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2400mil,9700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,10400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,11600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,11500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,7300mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,7200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,7100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,6900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,6800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,6600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,6400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,8300mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,8100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,8000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,7800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,7600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,7400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,8600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,8500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (3400mil,7900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2900mil,7400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (3400mil,7400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (11300mil,13700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (9800mil,13000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (9800mil,12600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (9800mil,12200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,7100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,6400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,7200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,6800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,6700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,6500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15900mil,6300mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (9800mil,6600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (11300mil,6600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (9800mil,6300mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (9800mil,6200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (11800mil,6100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (9800mil,6000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (10300mil,8800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (11800mil,8800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (12800mil,8800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (9800mil,8700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (9800mil,8400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (9800mil,8300mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (10800mil,8300mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (11800mil,8300mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (9800mil,8200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (9800mil,8100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (9800mil,8000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (9800mil,7800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (9800mil,7700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (9800mil,10000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (9800mil,9900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (10800mil,11800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (11300mil,11400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (10800mil,10500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (9800mil,11600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (11800mil,11000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (11300mil,10500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (3400mil,5900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,5900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,5700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,5500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (3400mil,5400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,5400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6500mil,5300mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2900mil,10400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (3400mil,10900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4400mil,10900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (3400mil,10400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2400mil,11800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (3400mil,7000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2400mil,7900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (3400mil,5000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2900mil,4500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (3400mil,4500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2400mil,5900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (10800mil,12300mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (12300mil,13700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (10800mil,8800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (10800mil,7900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (11800mil,7900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (11800mil,7400mil) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - Page05 LPDDR4.SchDoc
+        Warning : Power Port of type VCC_IN at (7700mil,7400mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (14200mil,13200mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (8200mil,11100mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (8200mil,8400mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (14200mil,9300mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (14200mil,11500mil) was replaced with Arrow style port
+        Warning : Junction at (16700mil,12800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,12700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,12600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15200mil,13000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,12900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,12500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,12400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (14200mil,13000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,11800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,11400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,11000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,10800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,10600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,10400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,9800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,11500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,11200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,11100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,10100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,9000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,8500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,8100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,7700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,7600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,8800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,8700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,8600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,8200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,7800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (19100mil,7600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (19100mil,11400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (19100mil,10400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (19100mil,9500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15700mil,12300mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (7700mil,12300mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (7700mil,9600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (14700mil,9200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15200mil,9200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15200mil,8700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15200mil,12500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (14200mil,11400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15200mil,11400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15700mil,11400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (14200mil,10900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15200mil,10900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (14700mil,11400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15200mil,10500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16200mil,11400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,13000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (14700mil,8200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15200mil,8200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (14700mil,7700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15200mil,7700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16700mil,9200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (15200mil,10000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (14700mil,10000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (14700mil,10500mil) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - Page06 CPU IO.SchDoc
+        Warning : Power Port of type VCC_IN at (11600mil,4700mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (11600mil,3200mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (18700mil,5400mil) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (5000mil,8000mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (15000mil,7600mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (15000mil,7200mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (15000mil,7100mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (15000mil,7000mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (15000mil,6900mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (15000mil,6800mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (15000mil,6700mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (15000mil,6600mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (15000mil,6500mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (15000mil,6400mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (15000mil,6300mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (15000mil,6200mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (11100mil,7300mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (11100mil,7000mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (11100mil,6700mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (11100mil,6400mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (5200mil,12600mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (5200mil,12500mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (5200mil,12200mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (5200mil,12100mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (5200mil,11600mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (5200mil,11500mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (5200mil,11400mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (5200mil,11300mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (5200mil,11200mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (5200mil,11100mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (5200mil,11000mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (5200mil,10900mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (15500mil,12700mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (15500mil,12600mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (15500mil,12500mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (15500mil,12400mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (15500mil,12300mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (15500mil,12200mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (15500mil,12100mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (15500mil,12000mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (6500mil,4000mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (6500mil,3900mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (6500mil,3800mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (6500mil,3700mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (6500mil,3500mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (2400mil,4000mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (2400mil,3000mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (2400mil,3900mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (2400mil,3800mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (2400mil,3700mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (2400mil,3600mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (2400mil,3500mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (2400mil,3400mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (2400mil,3300mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (6200mil,10700mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (11000mil,13200mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (11000mil,13000mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (11000mil,12900mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (11000mil,12800mil) is not recognised
+        Warning : Junction at (12100mil,4700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (12100mil,4300mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (12100mil,3000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (12100mil,3200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (5000mil,10700mil) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - Page07 CPU PHY.SchDoc
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (4400mil,12600mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (4400mil,12500mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (4400mil,12400mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (4400mil,11700mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (4400mil,11600mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (4400mil,10800mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (4400mil,10700mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (4400mil,10600mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (4400mil,9900mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (4400mil,9800mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (10500mil,11900mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (10500mil,11800mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (10500mil,12500mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (10500mil,12400mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (10400mil,6700mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (10400mil,6600mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (10400mil,6400mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (10400mil,6300mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (10400mil,6100mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (10400mil,6000mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (10400mil,5800mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (10400mil,5700mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (10400mil,5000mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (10400mil,4900mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (10400mil,4700mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (10400mil,4600mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (10400mil,4400mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (10400mil,4300mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (10400mil,4100mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (10400mil,4000mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (16700mil,6700mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (16700mil,6500mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (16700mil,6300mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (16700mil,4400mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (16700mil,4300mil) is not recognised
+    EndSection
+
+    Section : Importing Sheet - Page08 CPU MISC.SchDoc
+        Warning : Power Port of type VCC_IN at (88.9mm,170.18mm) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (241.3mm,109.22mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (241.3mm,106.68mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (241.3mm,134.62mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (241.3mm,132.08mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (241.3mm,129.54mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (241.3mm,124.46mm) is not recognised
+        Warning : Junction at (71.12mm,63.5mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (104.14mm,121.92mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (271.78mm,182.88mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (228.6mm,109.22mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (236.22mm,106.68mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (228.6mm,99.06mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (88.9mm,167.64mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (58.42mm,147.32mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (68.58mm,137.16mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (73.66mm,132.08mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (10.16mm,81.28mm) has been removed. It will be automatically calculated.
+        Warning : Junction at (236.22mm,101.6mm) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - Page09 eMMC_QSPI.SchDoc
+        Warning : Power Port of type VCC_IN at (3800mil,2900mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (4800mil,3000mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (4300mil,8200mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (8000mil,7200mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (1800mil,7500mil) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (1600mil,6600mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (2300mil,1900mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (7100mil,1900mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (2300mil,1300mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (2300mil,1100mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (1600mil,6500mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (1600mil,6400mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (1600mil,6300mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (1600mil,6200mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (1600mil,6100mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (1600mil,6000mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (1600mil,5900mil) is not recognised
+        Warning : Junction at (5400mil,2900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (5400mil,2400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4800mil,2900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (3800mil,1500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2800mil,5500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2200mil,5700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6200mil,6500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (7400mil,7000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4300mil,8000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (5500mil,7500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (5500mil,8000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6800mil,7000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (7400mil,6500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (5800mil,5400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4700mil,4600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (5700mil,6400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (5700mil,6300mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4600mil,4600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6200mil,6000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4400mil,7500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4500mil,7500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2800mil,6600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (1800mil,7400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2500mil,5700mil) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - Page10 BOOT_CFG.SchDoc
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (500.38mm,99.06mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (500.38mm,96.52mm) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (500.38mm,93.98mm) is not recognised
+    EndSection
+
+    Section : Importing Sheet - Page11 PMIC.SchDoc
+        Warning : Power Port of type VCC_IN at (2100mil,14300mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (7900mil,10900mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (7900mil,9800mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (13000mil,12700mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (7900mil,8700mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (16300mil,12500mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (16300mil,9700mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (2400mil,4600mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (2400mil,5600mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (5200mil,6200mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (7900mil,14200mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (7900mil,13100mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (16300mil,11100mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (6100mil,13500mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (6100mil,12400mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (5000mil,7600mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (2100mil,7700mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (2100mil,13200mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (2100mil,12100mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (2100mil,11000mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (2100mil,9900mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (2100mil,8800mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (16000mil,7900mil) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (2200mil,4200mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (2200mil,5200mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (2200mil,5000mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (7700mil,4300mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (7700mil,3600mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (7700mil,3200mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (2200mil,3400mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (2200mil,3800mil) is not recognised
+        Warning : Junction at (4200mil,14200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6300mil,13700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6300mil,14200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6300mil,13100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6300mil,12600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4200mil,8700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6300mil,8200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6300mil,10900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4200mil,10900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6300mil,10400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (5100mil,10900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6300mil,11500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4200mil,12000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6300mil,9800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6300mil,9300mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (5100mil,9800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (6300mil,8700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (7300mil,14200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (7300mil,10900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (7300mil,9800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (7300mil,8700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16000mil,12500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16000mil,9700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2100mil,8600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (12400mil,7600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (13200mil,7600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (5000mil,2000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (1700mil,2800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (3100mil,1900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (3800mil,4800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (3800mil,5400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2500mil,5400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (5200mil,6100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16000mil,11100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (5100mil,12400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (5800mil,13100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (5100mil,13500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (5800mil,14200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2100mil,13100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2100mil,13000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (5800mil,8700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4500mil,7600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2100mil,7600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2100mil,12000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (1200mil,10300mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (1600mil,10800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2100mil,10900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2100mil,9800mil) has been removed. It will be automatically calculated.
+    EndSection
+
+    Section : Importing Sheet - Page12 SOM Interface.SchDoc
+        Warning : Power Port of type VCC_OUT at (2000mil,7000mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_OUT at (4800mil,7000mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (4800mil,5600mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (2000mil,5600mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (16900mil,5500mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (16900mil,4100mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (17700mil,4100mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (2000mil,5000mil) was replaced with Arrow style port
+        Warning : Power Port of type VCC_IN at (18500mil,4100mil) was replaced with Arrow style port
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,11800mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,11900mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,11500mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,11600mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,13300mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,13400mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,13000mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,13100mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,12100mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,12200mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (9900mil,12800mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (9900mil,12700mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (1800mil,9400mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (1800mil,9300mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (1800mil,11800mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (1800mil,11700mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (1800mil,10900mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (1800mil,10800mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (1800mil,13000mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (1800mil,12800mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (1800mil,12700mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (5000mil,10900mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (5000mil,10800mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (5000mil,12500mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (5000mil,12400mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (5000mil,10300mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (5000mil,10200mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (5000mil,10000mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (5000mil,9900mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (5000mil,9700mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (5000mil,9600mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (5000mil,9400mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (5000mil,9300mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (5000mil,9100mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (5000mil,9000mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (5000mil,8800mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (5000mil,8700mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (9900mil,4400mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (5000mil,11200mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (5000mil,11100mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,9900mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,9800mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,9700mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (13100mil,9500mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (13100mil,9400mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (13100mil,9300mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (13100mil,9200mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (13100mil,9000mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (13100mil,8900mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (13100mil,8800mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (13100mil,8700mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (13100mil,4900mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,4700mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (13100mil,4600mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (13100mil,4400mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (13100mil,4300mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,4100mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,4000mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,3800mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,3700mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,3500mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,3400mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,3200mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,3100mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,12500mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,12400mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,12800mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,12700mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,11300mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,11200mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,11000mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,10900mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,10700mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (13100mil,10600mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (5000mil,3900mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (5000mil,3700mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (1800mil,3300mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (1800mil,3200mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (1800mil,3000mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (1800mil,2900mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (1800mil,2800mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (1800mil,2700mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (1800mil,2500mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (1800mil,2400mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (1800mil,2300mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (1800mil,2200mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (9900mil,6500mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (9900mil,6400mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (1800mil,4500mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (1800mil,4300mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (5000mil,4200mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (13100mil,6500mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (13100mil,2500mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (13100mil,2400mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (13100mil,2300mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (13100mil,2200mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (5000mil,4400mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (5000mil,4700mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (1800mil,10500mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (1800mil,10300mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (1800mil,12300mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (1800mil,12200mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (1800mil,12100mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (1800mil,12000mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (5000mil,12600mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (1800mil,12600mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-BIDIR-R at (1800mil,12500mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (9900mil,9100mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (9900mil,8700mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-OUT-R at (9900mil,10000mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (9900mil,9800mil) is not recognised
+        Warning : Off-Page Connector of type OFFPAGE-IN-R at (9900mil,9700mil) is not recognised
+        Warning : Junction at (2400mil,6900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2400mil,7000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4400mil,7000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2400mil,6800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2400mil,6700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4400mil,6700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4400mil,6800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2800mil,6200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4000mil,6200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4400mil,5600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4400mil,5400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2400mil,5600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2400mil,5500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2400mil,5400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2400mil,5300mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2400mil,5200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2800mil,6100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2800mil,5900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2400mil,6600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (16900mil,5400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4400mil,6600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2800mil,5800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4000mil,5800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4000mil,4600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2800mil,4600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2400mil,4900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2800mil,6300mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2400mil,5000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4000mil,2600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2800mil,2600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2800mil,3600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4000mil,3600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (10900mil,5600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (12100mil,5600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (12100mil,5100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (12100mil,3600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (12100mil,2600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4000mil,11900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4000mil,11600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2800mil,11600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4000mil,10700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2800mil,11000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4000mil,10400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2800mil,10700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4000mil,9800mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4000mil,9500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4000mil,8900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2800mil,9500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (10900mil,13200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (12100mil,13200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (10900mil,12900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (12100mil,12600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (10900mil,12600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (12100mil,12000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (10900mil,12000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (12100mil,11100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (12100mil,10100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (10900mil,10100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (12100mil,9100mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (10900mil,4600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (12100mil,4500mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (12100mil,4200mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (10900mil,2600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (10900mil,3600mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2800mil,11900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (4000mil,12700mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (2800mil,12900mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (10900mil,9000mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (10900mil,9400mil) has been removed. It will be automatically calculated.
+        Warning : Junction at (10900mil,11100mil) has been removed. It will be automatically calculated.
+    EndSection
+EndSection
